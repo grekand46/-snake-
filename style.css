@@ -1,0 +1,16 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+svg {
+    background-color: #000000;
+}
+
+text {
+    text-anchor: middle;
+    alignment-baseline: center;
+    font-family: "Unica One", Arial;
+    user-select: none;
+}
