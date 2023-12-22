@@ -11,6 +11,6 @@ svg {
 text {
     text-anchor: middle;
     alignment-baseline: center;
-    font-family: "Silkscreen", Arial;
+    font-family: "Silkscreen", Arial, sans-serif;
     user-select: none;
 }
